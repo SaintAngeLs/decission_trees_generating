@@ -1,0 +1,386 @@
+{
+  {
+    "balance": 1862.74,
+    "age": 28,
+    "eyeColor": "brown",
+    "children": 4
+  },
+  {
+    "balance": 3521.43,
+    "age": 28,
+    "eyeColor": "brown",
+    "children": 4
+  },
+  {
+    "balance": 2962.67,
+    "age": 25,
+    "eyeColor": "blue",
+    "children": 2
+  },
+  {
+    "balance": 3690.05,
+    "age": 40,
+    "eyeColor": "green",
+    "children": 1
+  },
+  {
+    "balance": 1617.26,
+    "age": 30,
+    "eyeColor": "brown",
+    "children": 1
+  },
+  {
+    "balance": 1326.69,
+    "age": 28,
+    "eyeColor": "brown",
+    "children": 3
+  },
+  {
+    "balance": 2443.14,
+    "age": 39,
+    "eyeColor": "green",
+    "children": 4
+  },
+  {
+    "balance": 1379.75,
+    "age": 20,
+    "eyeColor": "brown",
+    "children": 3
+  },
+  {
+    "balance": 3243.66,
+    "age": 23,
+    "eyeColor": "blue",
+    "children": 4
+  },
+  {
+    "balance": 3694.03,
+    "age": 24,
+    "eyeColor": "blue",
+    "children": 4
+  },
+  {
+    "balance": 1432.93,
+    "age": 28,
+    "eyeColor": "brown",
+    "children": 1
+  },
+  {
+    "balance": 2970.09,
+    "age": 29,
+    "eyeColor": "green",
+    "children": 2
+  },
+  {
+    "balance": 3258.05,
+    "age": 40,
+    "eyeColor": "blue",
+    "children": 0
+  },
+  {
+    "balance": 3923.2,
+    "age": 40,
+    "eyeColor": "green",
+    "children": 1
+  },
+  {
+    "balance": 2683.13,
+    "age": 20,
+    "eyeColor": "blue",
+    "children": 0
+  },
+  {
+    "balance": 1997.88,
+    "age": 26,
+    "eyeColor": "blue",
+    "children": 0
+  },
+  {
+    "balance": 2448.01,
+    "age": 28,
+    "eyeColor": "brown",
+    "children": 2
+  },
+  {
+    "balance": 1003.88,
+    "age": 37,
+    "eyeColor": "brown",
+    "children": 0
+  },
+  {
+    "balance": 3842.86,
+    "age": 21,
+    "eyeColor": "brown",
+    "children": 2
+  },
+  {
+    "balance": 1955.34,
+    "age": 23,
+    "eyeColor": "brown",
+    "children": 3
+  },
+  {
+    "balance": 1307.64,
+    "age": 22,
+    "eyeColor": "green",
+    "children": 3
+  },
+  {
+    "balance": 1990.47,
+    "age": 23,
+    "eyeColor": "green",
+    "children": 0
+  },
+  {
+    "balance": 2221.45,
+    "age": 33,
+    "eyeColor": "blue",
+    "children": 1
+  },
+  {
+    "balance": 2458.16,
+    "age": 27,
+    "eyeColor": "green",
+    "children": 1
+  },
+  {
+    "balance": 2543.07,
+    "age": 26,
+    "eyeColor": "green",
+    "children": 4
+  },
+  {
+    "balance": 1742.37,
+    "age": 33,
+    "eyeColor": "blue",
+    "children": 3
+  },
+  {
+    "balance": 1286.77,
+    "age": 29,
+    "eyeColor": "brown",
+    "children": 0
+  },
+  {
+    "balance": 1010.52,
+    "age": 20,
+    "eyeColor": "blue",
+    "children": 4
+  },
+  {
+    "balance": 1983,
+    "age": 39,
+    "eyeColor": "green",
+    "children": 4
+  },
+  {
+    "balance": 1819.1,
+    "age": 22,
+    "eyeColor": "brown",
+    "children": 3
+  },
+  {
+    "balance": 3654.24,
+    "age": 39,
+    "eyeColor": "brown",
+    "children": 2
+  },
+  {
+    "balance": 3136.42,
+    "age": 26,
+    "eyeColor": "brown",
+    "children": 4
+  },
+  {
+    "balance": 1960.98,
+    "age": 35,
+    "eyeColor": "brown",
+    "children": 3
+  },
+  {
+    "balance": 1589.09,
+    "age": 38,
+    "eyeColor": "brown",
+    "children": 4
+  },
+  {
+    "balance": 2313.93,
+    "age": 28,
+    "eyeColor": "blue",
+    "children": 4
+  },
+  {
+    "balance": 3431.33,
+    "age": 34,
+    "eyeColor": "green",
+    "children": 1
+  },
+  {
+    "balance": 2377.14,
+    "age": 33,
+    "eyeColor": "green",
+    "children": 1
+  },
+  {
+    "balance": 2279,
+    "age": 35,
+    "eyeColor": "green",
+    "children": 2
+  },
+  {
+    "balance": 3485.13,
+    "age": 27,
+    "eyeColor": "brown",
+    "children": 2
+  },
+  {
+    "balance": 2526.7,
+    "age": 34,
+    "eyeColor": "green",
+    "children": 3
+  },
+  {
+    "balance": 2113.67,
+    "age": 24,
+    "eyeColor": "blue",
+    "children": 2
+  },
+  {
+    "balance": 1943.38,
+    "age": 34,
+    "eyeColor": "brown",
+    "children": 3
+  },
+  {
+    "balance": 3715.36,
+    "age": 21,
+    "eyeColor": "green",
+    "children": 4
+  },
+  {
+    "balance": 1109.08,
+    "age": 38,
+    "eyeColor": "blue",
+    "children": 0
+  },
+  {
+    "balance": 1193.93,
+    "age": 24,
+    "eyeColor": "blue",
+    "children": 3
+  },
+  {
+    "balance": 1107.31,
+    "age": 21,
+    "eyeColor": "brown",
+    "children": 3
+  },
+  {
+    "balance": 3740.05,
+    "age": 27,
+    "eyeColor": "brown",
+    "children": 2
+  },
+  {
+    "balance": 3791.74,
+    "age": 23,
+    "eyeColor": "green",
+    "children": 1
+  },
+  {
+    "balance": 1929.21,
+    "age": 30,
+    "eyeColor": "brown",
+    "children": 1
+  },
+  {
+    "balance": 1504.55,
+    "age": 21,
+    "eyeColor": "blue",
+    "children": 1
+  },
+  {
+    "balance": 3607.74,
+    "age": 27,
+    "eyeColor": "green",
+    "children": 0
+  },
+  {
+    "balance": 1518.98,
+    "age": 22,
+    "eyeColor": "green",
+    "children": 2
+  },
+  {
+    "balance": 2704.71,
+    "age": 28,
+    "eyeColor": "blue",
+    "children": 2
+  },
+  {
+    "balance": 3197.31,
+    "age": 35,
+    "eyeColor": "blue",
+    "children": 4
+  },
+  {
+    "balance": 3556.53,
+    "age": 22,
+    "eyeColor": "green",
+    "children": 3
+  },
+  {
+    "balance": 3010.55,
+    "age": 20,
+    "eyeColor": "green",
+    "children": 0
+  },
+  {
+    "balance": 3700.72,
+    "age": 24,
+    "eyeColor": "brown",
+    "children": 1
+  },
+  {
+    "balance": 2713.37,
+    "age": 31,
+    "eyeColor": "green",
+    "children": 0
+  },
+  {
+    "balance": 2311.64,
+    "age": 27,
+    "eyeColor": "blue",
+    "children": 0
+  },
+  {
+    "balance": 3701.53,
+    "age": 29,
+    "eyeColor": "blue",
+    "children": 3
+  },
+  {
+    "balance": 1013.9,
+    "age": 25,
+    "eyeColor": "brown",
+    "children": 4
+  },
+  {
+    "balance": 2181.89,
+    "age": 35,
+    "eyeColor": "green",
+    "children": 3
+  },
+  {
+    "balance": 1288.08,
+    "age": 24,
+    "eyeColor": "green",
+    "children": 3
+  },
+  {
+    "balance": 3496.48,
+    "age": 35,
+    "eyeColor": "brown",
+    "children": 1
+  }
+}
